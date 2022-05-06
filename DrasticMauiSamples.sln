@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DragAndDropOverlay", "DragA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicaAcrylicWindows", "MicaAcrylicWindows\MicaAcrylicWindows.csproj", "{16246E29-CA4B-407E-B194-10A098A1DB25}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrayWindow", "TrayWindow\TrayWindow.csproj", "{4E445A71-A2E3-4C98-9CE4-0F63A0CEEBDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossPlatformTrayIcon", "CrossPlatformTrayIcon\CrossPlatformTrayIcon.csproj", "{4700932C-DA6F-4B7B-8EF9-679E627B8ED7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +28,16 @@ Global
 		{16246E29-CA4B-407E-B194-10A098A1DB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16246E29-CA4B-407E-B194-10A098A1DB25}.Release|Any CPU.Build.0 = Release|Any CPU
 		{16246E29-CA4B-407E-B194-10A098A1DB25}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4E445A71-A2E3-4C98-9CE4-0F63A0CEEBDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E445A71-A2E3-4C98-9CE4-0F63A0CEEBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E445A71-A2E3-4C98-9CE4-0F63A0CEEBDB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4E445A71-A2E3-4C98-9CE4-0F63A0CEEBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E445A71-A2E3-4C98-9CE4-0F63A0CEEBDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E445A71-A2E3-4C98-9CE4-0F63A0CEEBDB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4700932C-DA6F-4B7B-8EF9-679E627B8ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4700932C-DA6F-4B7B-8EF9-679E627B8ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4700932C-DA6F-4B7B-8EF9-679E627B8ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4700932C-DA6F-4B7B-8EF9-679E627B8ED7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
