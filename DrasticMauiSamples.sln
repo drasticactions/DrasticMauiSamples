@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32422.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DragAndDropOverlay", "DragAndDropOverlay\DragAndDropOverlay.csproj", "{B11F9809-BF78-45AF-8D70-6AF42C4851E6}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicaAcrylicWindows", "MicaAcrylicWindows\MicaAcrylicWindows.csproj", "{16246E29-CA4B-407E-B194-10A098A1DB25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -16,6 +18,12 @@ Global
 		{B11F9809-BF78-45AF-8D70-6AF42C4851E6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{B11F9809-BF78-45AF-8D70-6AF42C4851E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B11F9809-BF78-45AF-8D70-6AF42C4851E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16246E29-CA4B-407E-B194-10A098A1DB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16246E29-CA4B-407E-B194-10A098A1DB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16246E29-CA4B-407E-B194-10A098A1DB25}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{16246E29-CA4B-407E-B194-10A098A1DB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16246E29-CA4B-407E-B194-10A098A1DB25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16246E29-CA4B-407E-B194-10A098A1DB25}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
