@@ -28,7 +28,7 @@ public partial class MainPage : ContentPage
 
     private void OnTrayWindow(object sender, EventArgs e)
     {
-#if WINDOWS
+#if WINDOWS || MACCATALYST
         if (this.trayWindow is null)
         {
             var icon = GetResourceFileContent("Icon.favicon.ico");
